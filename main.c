@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define VERSION	"v0.0.1"
+#define VERSION	"v0.0.2"
 
 int main(void){
 	printf("\r\nHello World");
